@@ -77,7 +77,7 @@ In the **Header** paste the following script.
 
 Create a new 'Descriptive Text' question, enter the 'HTML-view' and paste the following code into the question:
 
-```JavaScript
+```HTML
 <div>
    <img src="http://mneme.psy.vu.nl/etp/so/dice/0-red.png" id="mydice1" alt="">
    &nbsp;&nbsp;
